@@ -14,7 +14,7 @@ domain_name_a_tester2\
 domain_name_a_tester3\
 etc.
 
-Les noms de domaine ne doivent pas avoir de TLD\
+Les noms de domaine ne doivent pas avoir de TLD
 
 ## EXEMPLE
 .\listing_dns.ps1 -Fichier .\domain_names.txt
